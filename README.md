@@ -7,9 +7,13 @@ Reducing the large amount of reduction in time and cost required for digitizatio
 Sequence of how to implement the feature extraction from the images are as followes
 
 Step 1: Data Preparation
+
 Step 2: Model_Training
+
 Step 3: Model_prediction
+
 Step 4: Post_processing
+
 Step 5: Index
 
 Step 1: Data Preparation
